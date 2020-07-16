@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/experimentalqr.git/static/css/main.72319c7e.chunk.css",
-    "main.js": "/experimentalqr.git/static/js/main.b95147e5.chunk.js",
-    "main.js.map": "/experimentalqr.git/static/js/main.b95147e5.chunk.js.map",
-    "runtime-main.js": "/experimentalqr.git/static/js/runtime-main.5c549e6d.js",
-    "runtime-main.js.map": "/experimentalqr.git/static/js/runtime-main.5c549e6d.js.map",
-    "static/js/2.63f4f37e.chunk.js": "/experimentalqr.git/static/js/2.63f4f37e.chunk.js",
-    "static/js/2.63f4f37e.chunk.js.map": "/experimentalqr.git/static/js/2.63f4f37e.chunk.js.map",
-    "index.html": "/experimentalqr.git/index.html",
-    "precache-manifest.7ca3815e103ff4ca0615f1b716f01573.js": "/experimentalqr.git/precache-manifest.7ca3815e103ff4ca0615f1b716f01573.js",
-    "service-worker.js": "/experimentalqr.git/service-worker.js",
-    "static/css/main.72319c7e.chunk.css.map": "/experimentalqr.git/static/css/main.72319c7e.chunk.css.map",
-    "static/js/2.63f4f37e.chunk.js.LICENSE.txt": "/experimentalqr.git/static/js/2.63f4f37e.chunk.js.LICENSE.txt"
+    "main.css": "/experimentalqr/static/css/main.72319c7e.chunk.css",
+    "main.js": "/experimentalqr/static/js/main.c60881da.chunk.js",
+    "main.js.map": "/experimentalqr/static/js/main.c60881da.chunk.js.map",
+    "runtime-main.js": "/experimentalqr/static/js/runtime-main.f6c29ade.js",
+    "runtime-main.js.map": "/experimentalqr/static/js/runtime-main.f6c29ade.js.map",
+    "static/js/2.63f4f37e.chunk.js": "/experimentalqr/static/js/2.63f4f37e.chunk.js",
+    "static/js/2.63f4f37e.chunk.js.map": "/experimentalqr/static/js/2.63f4f37e.chunk.js.map",
+    "index.html": "/experimentalqr/index.html",
+    "precache-manifest.1e2b02d09d31ad2315001cff8d95e7d5.js": "/experimentalqr/precache-manifest.1e2b02d09d31ad2315001cff8d95e7d5.js",
+    "service-worker.js": "/experimentalqr/service-worker.js",
+    "static/css/main.72319c7e.chunk.css.map": "/experimentalqr/static/css/main.72319c7e.chunk.css.map",
+    "static/js/2.63f4f37e.chunk.js.LICENSE.txt": "/experimentalqr/static/js/2.63f4f37e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c549e6d.js",
+    "static/js/runtime-main.f6c29ade.js",
     "static/js/2.63f4f37e.chunk.js",
     "static/css/main.72319c7e.chunk.css",
-    "static/js/main.b95147e5.chunk.js"
+    "static/js/main.c60881da.chunk.js"
   ]
 }
