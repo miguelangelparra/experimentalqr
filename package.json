@@ -2,7 +2,7 @@
   "name": "experimentalqr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://miguelangelparra.github.io/experimentalqr.git",
+  "homepage": "http://miguelangelparra.github.io/experimentalqr",
 
   "dependencies": {
     "-": "0.0.1",
