@@ -3,7 +3,7 @@ import QrReader from 'react-qr-reader'
 
 export class TestQR extends Component {
   state = {
-    result: 'Hola!'
+    result: ''
   }
 
   handleScan = data => {
@@ -20,13 +20,13 @@ export class TestQR extends Component {
   render() {
     return (
         <>
-        <QrReader
+       {!this.state.result? <QrReader
           delay={300}
           onError={this.handleError}
           onScan={this.handleScan}
           style={{ width: '100%'  }}
-        />
-        <p>{this.state.result}</p>
+        />:<div> <h3>Espera un momento, estamos levantando el servidor:</h3><p>{`${this.state.result} ...es pesado`}</p></div>}
+        
         </>
     )
   }
