@@ -24,7 +24,7 @@ export class TestQR extends Component {
           delay={300}
           onError={this.handleError}
           onScan={this.handleScan}
-          style={{ width: '40%'  }}
+          style={{ width: '100%'  }}
         />
         <p>{this.state.result}</p>
         </>
